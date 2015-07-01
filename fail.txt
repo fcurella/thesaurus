@@ -1,4 +1,6 @@
 broken
 didn't work
 failed
+no dice
+no luck
 something happened
