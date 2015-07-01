@@ -1,6 +1,4 @@
-darnit
-no good
-oh noes
-oops
-ouch
-that's unfortunate
+broken
+didn't work
+failed
+something happened
